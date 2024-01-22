@@ -21,7 +21,7 @@ Image Quantity: Train ( Avg for all 3 classifications ): 306.  Test ( all 3 clas
 
 ## How to run the project:
 
-1. Ensure that you have a Jetson Nano.
+1. IMPORTANT: Ensure that you have a Jetson Nano.
 2. Ensure that the following are already installed on your Jetson Nano:
    a. Python 3
    b. The Jetson Inference Library

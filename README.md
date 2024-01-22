@@ -62,6 +62,6 @@ scp <nanousername>@192.168.55.1:/home/<nanousername>/jetson-inference/python/tra
 scp <nanousername>@192.168.55.1:/home/<nanousername>/jetson-inference/python/training/classification/cat.jpg ./
 
     
-10. (Optional) if you want to test your own image of a skin condition ( must be either Acne, Melanoma, or Healthy Skin ) add it to the test directory into any classification folder you like ( or put it in the correct one if you want to be organized ) and proceed to step 9.
+10. (Optional) if you want to test your image of a skin condition ( must be either Acne, Melanoma, or Healthy Skin ) add it to the test directory in any classification folder you like ( or put it in the correct one if you want to be organized ) and proceed to step 9.
 
 Project Video: https://youtu.be/EXyd0CnVtxA
